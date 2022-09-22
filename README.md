@@ -1,4 +1,4 @@
-Webpage link: https://sudarshan57.github.io/Web_Technology/
+#Webpage link: https://sudarshan57.github.io/Html_PracticeQues/
 
 #html webpage
 
